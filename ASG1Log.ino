@@ -68,10 +68,10 @@ void setup() {
   Serial.println("WiFi connected");
 
   /* Assign the api key (required) */
-  config.api_key = "AIzaSyAXZsY5nXtl3i7iTKWFZcNPOzByBz4Rem0";
+  config.api_key = "REDACTED";
 
   /* Assign the RTDB URL (required) */
-  config.database_url = "https://sensorbase-80154-default-rtdb.asia-southeast1.firebasedatabase.app/";
+  config.database_url = "REDACTED";
 
   /* Sign up */
   if (Firebase.signUp(&config, &auth, "", "")) {
