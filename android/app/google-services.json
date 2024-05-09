@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "943105972707",
+    "firebase_url": "https://sensorbase-80154-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sensorbase-80154",
+    "storage_bucket": "sensorbase-80154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943105972707:android:7be5161da42c86848228d6",
+        "android_client_info": {
+          "package_name": "com.example.flfb_sensor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdY2IBXOFm0DfC1wW6QkqG-qamvq7Pdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
